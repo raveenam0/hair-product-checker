@@ -1,5 +1,5 @@
 # Hair Product Checker
-This is a simple project that takes in a list of hair product ingredients and checks for any alcohols (good and bad), humectants, and proteins. It's helpful for checking if a hair product has possibly harmful or helpful ingredients.
+This is a simple project that checks for any alcohols (good and bad), humectants, and proteins in a list of hair product ingredients. It's helpful for checking if a hair product has possibly harmful or helpful ingredients.
 
 ## How to Use
 1. Write the ingredients in the ingredients.txt file. Each ingredient must be separated by a newline.
